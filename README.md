@@ -4,9 +4,8 @@
 
 ## UK SMI repository
 
-### Bacteriology
-
-* [SMI B 1: investigation of ear infections and associated specimens](B_1i9.pdf)
+### [Bacteriology](Bacteriology.md)
+These are bacteriology standards for the laboratory covering receipt of the sample in the laboratory to the issue of a report.
 
 ### Virology
 
