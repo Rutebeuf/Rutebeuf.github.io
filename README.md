@@ -6,7 +6,7 @@
 
 ### Bacteriology
 
-* SMI B 1: investigation of ear infections and associated specimens
+* [SMI B 1: investigation of ear infections and associated specimens](rutebeuf.github.io/B_1i9.pdf)
 
 ### Virology
 
